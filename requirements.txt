@@ -1,0 +1,7 @@
+matplotlib==3.8.4
+lifelines==0.30.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+torch==2.3.1
+tqdm==4.66.4

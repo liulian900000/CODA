@@ -1,4 +1,4 @@
-# SSD_ICG
+# CODA
 
 ## Conditional Diffusion–guided Dual-agent Collaboration for Pathological Heterogeneous Analysis in Breast Cancer
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
   ```
 
 ## Saved model
-- Our trained SSD_ICG model is avaliable at [saved_model](https://github.com/liulian900000/CODA/model), which performing as:
+- Our trained CODA model is avaliable at [saved_model](https://github.com/liulian900000/CODA/model), which performing as:
   | Dataset | ROC-AUC | C-index|
   | ----- |:--------:|:--------:|
   | C16 | 0.9857 | ***** |
